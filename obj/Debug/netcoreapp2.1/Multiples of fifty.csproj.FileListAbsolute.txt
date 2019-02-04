@@ -1,0 +1,11 @@
+C:\Users\Shadrack myles\RiderProjects\Multiples of fifty\bin\Debug\netcoreapp2.1\Multiples of fifty.deps.json
+C:\Users\Shadrack myles\RiderProjects\Multiples of fifty\bin\Debug\netcoreapp2.1\Multiples of fifty.runtimeconfig.json
+C:\Users\Shadrack myles\RiderProjects\Multiples of fifty\bin\Debug\netcoreapp2.1\Multiples of fifty.runtimeconfig.dev.json
+C:\Users\Shadrack myles\RiderProjects\Multiples of fifty\bin\Debug\netcoreapp2.1\Multiples of fifty.dll
+C:\Users\Shadrack myles\RiderProjects\Multiples of fifty\bin\Debug\netcoreapp2.1\Multiples of fifty.pdb
+C:\Users\Shadrack myles\RiderProjects\Multiples of fifty\obj\Debug\netcoreapp2.1\Multiples of fifty.csprojAssemblyReference.cache
+C:\Users\Shadrack myles\RiderProjects\Multiples of fifty\obj\Debug\netcoreapp2.1\Multiples of fifty.csproj.CoreCompileInputs.cache
+C:\Users\Shadrack myles\RiderProjects\Multiples of fifty\obj\Debug\netcoreapp2.1\Multiples of fifty.AssemblyInfoInputs.cache
+C:\Users\Shadrack myles\RiderProjects\Multiples of fifty\obj\Debug\netcoreapp2.1\Multiples of fifty.AssemblyInfo.cs
+C:\Users\Shadrack myles\RiderProjects\Multiples of fifty\obj\Debug\netcoreapp2.1\Multiples of fifty.dll
+C:\Users\Shadrack myles\RiderProjects\Multiples of fifty\obj\Debug\netcoreapp2.1\Multiples of fifty.pdb
